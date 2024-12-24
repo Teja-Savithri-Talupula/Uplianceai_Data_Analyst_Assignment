@@ -44,7 +44,7 @@ Steps:
     1.User Demographics: Most users are aged 27–42, with Dinner and Lunch being the preferred 
       meal types across major cities.
     2.Cooking Sessions vs Orders: Frequent cooking sessions correlate with higher order rates, 
-      and popular dishes like Spaghetti and Caesar Salad align with both cooking and ordering 
+      and popular dishes like Spaghetti, Grilled Chicken and Caesar Salad align with both cooking and ordering 
       preferences.
     3.Popular Dishes and Revenue: Dinner generates the highest revenue, with average spending 
       between $10–15, and customer ratings indicate high satisfaction (4–5 stars).
